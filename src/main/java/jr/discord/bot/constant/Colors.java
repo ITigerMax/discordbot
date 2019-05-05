@@ -1,6 +1,8 @@
 package jr.discord.bot.constant;
 
-
+/**
+ * Represents the basic set of colors for decorating bot's messages.
+ * */
 public class Colors {
 
     public static final int RED = 0xff0000;
